@@ -1,30 +1,12 @@
-# 👋 Hi, I'm Rabia Çolak
+- 👋 Hi, I'm @rabiicolak. I am a Computer Engineering student interested in software development and modern application design.  
+I actively improve myself in mobile application development and backend technologies.
 
-🎓 Computer Engineering Student  
-💻 .NET MAUI & ASP.NET Core Developer  
-🎨 Interested in UI/UX and modern software design  
+- 💻 I have experience in .NET MAUI, ASP.NET Core Web API, C# and SQL Server development.
 
----
+- 📊 I develop modern finance and management applications with responsive UI/UX designs.
 
-## 🚀 Technologies
+- 🎨 I am especially interested in fintech-style interfaces, user experience and clean software architecture.
 
-- C#
-- .NET MAUI
-- ASP.NET Core Web API
-- SQL Server
-- Entity Framework Core
-- XAML
-- Python
-- Git & GitHub
+- 🚀 I continuously improve my skills through academic and personal software projects.
 
----
-
-## 🌱 Currently Learning
-
-- Mobile App Development
-- Software Architecture
-- Modern UI/UX Design
-
----
-
-📫 Contact: rabia.colkk@gmail.com
+- 📫 How to reach me: rabia.colkk@gmail.com
