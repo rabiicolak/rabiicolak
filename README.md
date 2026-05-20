@@ -2,12 +2,11 @@
 
 🎓 Computer Engineering Student  
 💻 .NET MAUI & ASP.NET Core Developer  
-🎨 Interested in UI/UX and modern application design  
-📊 Building finance and AI-supported software projects  
+🎨 Interested in UI/UX and modern software design  
 
 ---
 
-# 🚀 Technologies & Tools
+## 🚀 Technologies
 
 - C#
 - .NET MAUI
@@ -15,44 +14,17 @@
 - SQL Server
 - Entity Framework Core
 - XAML
-- Git & GitHub
 - Python
+- Git & GitHub
 
 ---
 
-# 📌 Featured Projects
+## 🌱 Currently Learning
 
-## 💸 PersonalFinanceApp
-Modern personal finance management application developed with .NET MAUI and ASP.NET Core API.
-
-### Features
-- Income / Expense Management
-- Financial Statistics
-- Graphical Analysis
-- Premium UI/UX Design
-- Responsive Layout
-- Transaction Management System
-
----
-
-# 🌱 Currently Learning
-
-- Advanced .NET Development
+- Mobile App Development
 - Software Architecture
-- Mobile Application Development
-- API Integration
 - Modern UI/UX Design
 
 ---
 
-# 📫 Contact
-
-📧 Email: rabia.colkk@gmail.com  
-💼 LinkedIn: www.linkedin.com/in/rabia-çolak-925733266/
-
----
-
-# ✨ About Me
-
-I enjoy developing modern, user-friendly and visually polished software projects.  
-I focus especially on mobile applications, API development and fintech-style UI designs.
+📫 Contact: rabia.colkk@gmail.com
